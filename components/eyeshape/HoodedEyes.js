@@ -11,9 +11,8 @@ export default class HoodedEyes extends Component {
       <View style={styles.container}>
         <ScrollView>
           <TouchableOpacity 
-            style={styles.button}
-            >
-              <Text style={styles.text}>VIDEO</Text>
+            style={styles.button}>
+              <Text style={styles.text}>The Do's and Don't of Hooded Eyes</Text>
           </TouchableOpacity>
         </ScrollView>
       </View>

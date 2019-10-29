@@ -11,9 +11,8 @@ export default class HeartFace extends Component {
       <View style={styles.container}>
         <ScrollView>
           <TouchableOpacity 
-            style={styles.button}
-            >
-              <Text style={styles.text}>VIDEO</Text>
+            style={styles.button}>
+              <Text style={styles.text}>How to Contour Your Heart Shaped Face</Text>
           </TouchableOpacity>
         </ScrollView>
       </View>
